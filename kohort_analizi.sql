@@ -1,4 +1,4 @@
--- KOHORT ANALÝZÝ
+-- KOHORT ANALIZI
 
 SELECT
                 customer_month_count.cohort_month,
